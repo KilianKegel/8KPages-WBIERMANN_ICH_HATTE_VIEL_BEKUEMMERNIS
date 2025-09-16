@@ -1,5 +1,5 @@
 # 8KPages-WBIERMANN_ICH_HATTE_VIEL_BEKUEMMERNIS
-Meditation über die Kantate Nr. 21 von Johann Sebastian Bach, aufgeführt
+Wolf Biermann: Meditation über die Kantate Nr. 21 von Johann Sebastian Bach, aufgeführt
 zusammen mit dem Chor und Orchester des Schweizer Fernsehens in Zürich
 
 ![](https://github.com/KilianKegel/8KPages-WBIERMANN_ICH_HATTE_VIEL_BEKUEMMERNIS/blob/main/images/page_000.jpg)
